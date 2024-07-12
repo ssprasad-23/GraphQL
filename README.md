@@ -12,8 +12,7 @@ Getting Started
 Node.js (v14 or later)
 npm (v6 or later)
 
-2. Installation: 
-Clone the repository: https://github.com/ssprasad-23/GraphQL.git
+2. Clone the repository: https://github.com/ssprasad-23/GraphQL.git
 
 3. Install Dependencies: 
 npm install
