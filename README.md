@@ -1,4 +1,5 @@
 GraphQL API
+
 This project is a GraphQL API built using Apollo Server. It allows users to query and mutate data related to games, reviews, and authors. The project includes queries for fetching lists and individual records, as well as mutations for adding, deleting, and updating game records.
 
 - Apollo Server
@@ -17,8 +18,8 @@ Clone the repository: https://github.com/ssprasad-23/GraphQL.git
 3. Install Dependencies: 
 npm install
 
-4. Running the Server: 
-To start the server, run: npm start
+4. Running the Server: node index.js
+
 The server will be running at http://localhost:4000
 
 GameQuery
